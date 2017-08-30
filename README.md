@@ -1,0 +1,2 @@
+# Kuro-Safelink
+Safelink blog
